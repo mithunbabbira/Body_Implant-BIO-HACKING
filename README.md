@@ -1,6 +1,11 @@
 # BodyImplant
-I have inserted a re-programmable chip into my body.
-This can be programmed to use as a key for everything and also stores a small amount of data.
+I have inserted a  chip into my body.
+This chip uses RFID (Radio-frequency identification)
+This can be reprogrammed using RFID writers (contactless)
+The use case of this is vast 
+For example : I rewire a bike and installed a micro controller to read RFID tags , After installation 
+the vehicle can be started by tapping my hand
+
 
 
 https://user-images.githubusercontent.com/22415316/116289831-77beae80-a7b0-11eb-8c10-6bad9bc39dc3.mp4 
