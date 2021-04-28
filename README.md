@@ -1,8 +1,8 @@
 # BodyImplant
 I have inserted a  chip into my body.
-This chip uses RFID (Radio-frequency identification)
-This can be reprogrammed using RFID writers (contactless)
-The use case of this is vast 
+This chip uses RFID (Radio-frequency identification).
+This can be re-programmed using RFID writers (contactless).
+The use case of this is vast .
 For example : I rewire a bike and installed a micro controller to read RFID tags , After installation 
 the vehicle can be started by tapping my hand
 
